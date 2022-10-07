@@ -32,7 +32,7 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# VCL (Varnish Language Configuration) source file
+# VCL (Varnish Configuration Language) source file
 *.vcl linguist-detectable=true
 *.vcl linguist-documentation=false
 *.vcl linguist-language=VCL
@@ -169,6 +169,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Friday, October 7th at 1:30 pm PST)
+# File version: 6 (2022, Friday, October 7th at 1:45 pm PST)
 # Line count (including blank lines and compiler line): 175
 # End of script
